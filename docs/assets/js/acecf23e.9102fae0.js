@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunklearn_to_code_with_ai_level_1_practice=globalThis.webpackChunklearn_to_code_with_ai_level_1_practice||[]).push([[1903],{1912(e){e.exports=JSON.parse('{"blogBasePath":"/LearnToCodeWithAI/blog","blogTitle":"Blog","authorsListPath":"/LearnToCodeWithAI/blog/authors"}')}}]);
