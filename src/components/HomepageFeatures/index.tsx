@@ -11,32 +11,30 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Easy to Understand',
+    Svg: require('@site/static/img/undraw_thinking-mode_7czd.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        This course is designed to be accessible to everyone, regardless of their prior experience with programming. We will start with the basics and gradually build up your skills, ensuring that you can follow along and understand each concept before moving on to the next.
+      </>
+      // not white on pink, icons and text change. easy, practical, modern
+    ),
+  },
+  {
+    title: 'Hands On Learning',
+    Svg: require('@site/static/img/undraw_coding-assistant_i178.svg').default,
+    description: (
+      <>
+       This course emphasizes hands-on learning, allowing you to apply what you learn through practical exercises and projects. Giving you valuable experience and confidence in your AI assisted coding skills.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Modern and Up-to-Date',
+    Svg: require('@site/static/img/undraw_code-deployed_iwvu.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        This course is designed to be modern and up-to-date, covering the latest tools and techniques in AI assisted coding. You will learn how to use popular AI coding assistants and stay ahead of the curve in this rapidly evolving field.
       </>
     ),
   },

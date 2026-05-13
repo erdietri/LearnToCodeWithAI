@@ -11,3 +11,27 @@ Python also has built-in conditions that we can use when creating "actions" or f
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ADtTbDc1BR4?si=ezwkomHJ55gAo-Jq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Practice what you preach
+
+1. Let's practice thinking a little more programmatically.
+
+Let's say you want to know all of the devices with OSPF neighbor states of FULL, and that you want to print those to the terminal.
+
+(For reference... OSPF neighbor states in order: Down → Init → 2-Way → ExStart → Exchange → Loading → Full)
+
+How might you write an if/else statement to solve this problem? 
+
+2. What does the network you work on look like? What devices do you find yourself having to do the same repetitive actions on?
+Write a list of tasks that you do to multiple devices on a daily, weekly, or quarterly basis. 
+(i.e., do you pull certain show commands? Troubleshoot across devices? Change passwords? Take backups?)
+
+Now, plug that into the first line of your potential 'for' loop: 
+
+```
+def NAME_THIS_FUNCTION(): 
+    for YOUR_VARIABLE_NAME_HERE in VARIABLE_NAME_OF_DATA_STRUCTURE_HOLDING_YOUR_DEVICES:
+    # Later, you'll replace this comment with implementation.
+```
+
+## Have your mentor ask you this...
+
+Discuss your answers with your mentor.
