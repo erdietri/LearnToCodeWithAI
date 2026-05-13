@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Learn To Code With AI!',
-  tagline: 'Fast, fun, & practical coding for network engineers',
+  tagline: '\"Best coding course out there for network engineers." -The Art of Network Engineering',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future

@@ -11,30 +11,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Understand',
+    title: 'Fast & Easy to Follow',
     Svg: require('@site/static/img/undraw_thinking-mode_7czd.svg').default,
     description: (
       <>
-        This course is designed to be accessible to everyone, regardless of their prior experience with programming. We will start with the basics and gradually build up your skills, ensuring that you can follow along and understand each concept before moving on to the next.
+        No-ego, self-paced videos (*mostly*) under 20 minutes... perfect for busy network engineers. The course is crafted with everything you need to develop an automation mindset.
+        <br />
+        <br />
+        "Super helpful stuff! I'm having more luck with this than the development course offered at my college. Cheers!" -@autoattackband (YouTube comment) <br/> <br/> "This is very easy and I don't really program on a day today basis. Thanks for making this easy Erika!!" -Adrian, network engineer (YouTube comment)
+
       </>
       // not white on pink, icons and text change. easy, practical, modern
     ),
   },
   {
-    title: 'Hands On Learning',
+    title: 'Practical & Relevant to Networking/IT',
     Svg: require('@site/static/img/undraw_coding-assistant_i178.svg').default,
     description: (
       <>
-       This course emphasizes hands-on learning, allowing you to apply what you learn through practical exercises and projects. Giving you valuable experience and confidence in your AI assisted coding skills.
+        No unnecessary fluff or theory. No generic examples. Just practical, real-world coding examples that are directly relevant to network engineers and IT (and with growing neteng collabs!). <br/> <br/> "20-year network engineer here. Trying to lead my team into the world of scripting/coding/automation/ etc. Your videos are a breath of fresh air. Thank you for creating them! Keep em' coming. Looking forward to the next level of videos."
+        - Josh, Network Engineer (Substack message)" <br/> <br/> "Thanks for breaking it down! You made it easy for a SysOps guy to understand" -Keegan, SysOps Engineer (YouTube comment) 
       </>
     ),
   },
   {
-    title: 'Modern and Up-to-Date',
+    title: 'Modern Coding Includes AI & Cyber',
     Svg: require('@site/static/img/undraw_code-deployed_iwvu.svg').default,
     description: (
       <>
-        This course is designed to be modern and up-to-date, covering the latest tools and techniques in AI assisted coding. You will learn how to use popular AI coding assistants and stay ahead of the curve in this rapidly evolving field.
+        Dividing the learning into 3 levels, this course walks you through foundations, learning with AI, and generating code with AI, with cybersecurity principles woven throughout. <br/> <br/> "This was an awesome video! I got a good gist of what APIs are now and can't wait to learn about best practices. I'll be checking out the Shodan API to see the type of information I can get with their product." -@the-overtinker (YouTube comment) <br/> <br/> "Level 2!! Lets go!!! 😃 Kudos to you for being dilligent in making this course." -Aaron (YouTube comment)
       </>
     ),
   },
