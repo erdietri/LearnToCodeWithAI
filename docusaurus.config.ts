@@ -47,21 +47,7 @@ const config: Config = {
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -89,12 +75,17 @@ const config: Config = {
           label: 'Level 1',
           to: '/docs/level-1',
         },
-        {to: '/docs/level-2', label: 'Level 2', position: 'left'},
+        {
+          type: 'docSidebar',
+          sidebarId: 'level2Sidebar',
+          position: 'left',
+          label: 'Level 2',
+          to: '/docs/level-2-using-ai',
+        },
         {
           to: '/level-3',
           label: 'Level 3',
           position: 'left',
-          to: '/docs/level-3',
         },
         {
           to: '/meet-your-instructor',
@@ -120,7 +111,7 @@ const config: Config = {
             },
             {
               label: 'Level 2',
-              to: '/docs/level-2',
+              to: '/docs/level-2-using-ai',
             },
           ],
         },
@@ -144,10 +135,6 @@ const config: Config = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Level 2',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
