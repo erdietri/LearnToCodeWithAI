@@ -62,10 +62,10 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'AI Coding for IT',
+      title: 'Learn To Code Using AI',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Erika the Dev Logo',
+        src: 'img/erikathedev_logo.png',
       },
       items: [
         {

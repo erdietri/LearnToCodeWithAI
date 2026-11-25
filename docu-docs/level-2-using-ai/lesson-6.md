@@ -1,9 +1,9 @@
 ---
-title: Project 1 - Part 1
+title: Code With Me!
 sidebar_position: 6
 ---
 
-# Project 1 - Part 1
+# Code With Me! Find Last Time Int State Up
 
 In this "come along" style vlog, I walk you through my thought process writing a script to determine the last time an interface was in an up state. We use my Working Script (Automation) Process and AI to plan it out, gather necessary info, break down the problem into smaller parts, and to code a minimum viable product that "just works." I include things I backtracked on, mistakes I made, and tradeoffs decided upon and edit only to make this video not (extremely) long and (less) boring.
 
@@ -24,5 +24,7 @@ Username, password, and interface are collected as input in the terminal and the
 
 RESULTING CODE
 I won't be sharing any code until part 2 when we implement code security as we only want secure code running in production. This video was only for instructional purposes.
+
+## Watch the lesson
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcTBmZOhh8w" title="Finding Last Time Interface Was Up, part 1 | Learn To Code Using AI course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
