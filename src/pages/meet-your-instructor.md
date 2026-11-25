@@ -5,7 +5,7 @@ title: Meet Your Instructor
 # Meet Erika the Dev
 
 <div style={{ display: 'flex', alignItems: 'flex-start', gap: '20px' }}>
-  <img src="/img/profile-picture.png" alt="Instructor Headshot" style={{ width: '300px', borderRadius: '8px' }} />
+<img src="img/profile-picture.png" alt="Instructor Headshot" style={{ width: '300px', borderRadius: '8px' }} />
   <div>
     <p>Erika Dietrick, known as @erika_thedev online, is a software engineer and technical content creator residing in North Carolina, USA. Partially while earning her Master of Software Engineering from East Carolina University (and later, her CCNA and CCNA Automation), she has accumulated 7 years of diverse experiences in tech, from Fortune 100s to startups alike, and across networking, cybersecurity, and traditional software engineering.</p>
 
