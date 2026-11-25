@@ -9,7 +9,7 @@ Writing code that works is great, but if you're the only one who can read it... 
 
 ## Watch the lesson
 
-<iframe width="560" height="315" src="https://youtu.be/ZCTGJaikCmo" title="Writing Human-Readable Automation | Learn To Code Using AI (For Network Engineers!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZCTGJaikCmo?si=oI1BJZPHUhFPh4uP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Dive deeper into the material
 The following prompt guide is meant to help you further explore the lesson. Please keep in mind that results will vary each time the prompt is submitted, even if the same model is used. Results will also vary between models. For this reason, we cannot guarantee response outputs.
