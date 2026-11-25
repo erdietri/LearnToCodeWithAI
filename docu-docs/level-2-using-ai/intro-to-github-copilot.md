@@ -1,5 +1,5 @@
 ---
-title: Intro to Github Copilot (Crash Course)
+title: Intro to Github Copilot
 sidebar_position: 3
 ---
 

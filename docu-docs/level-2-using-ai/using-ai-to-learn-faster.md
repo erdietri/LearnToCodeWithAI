@@ -1,5 +1,5 @@
 ---
-title: Use AI Coding Assistants To Learn FASTER
+title: Use AI To Learn FASTER
 sidebar_position: 4
 ---
 

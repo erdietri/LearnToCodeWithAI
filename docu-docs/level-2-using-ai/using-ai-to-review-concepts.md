@@ -1,5 +1,5 @@
 ---
-title: Using AI To Review Concepts While Coding
+title: Using AI To Review Concepts
 sidebar_position: 5
 ---
 
