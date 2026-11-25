@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Learn To Code With AI!',
+  title: 'Learn To Code Using AI!',
   tagline: '\"Best coding course out there for network engineers." -The Art of Network Engineering',
   favicon: 'img/favicon.ico',
 
